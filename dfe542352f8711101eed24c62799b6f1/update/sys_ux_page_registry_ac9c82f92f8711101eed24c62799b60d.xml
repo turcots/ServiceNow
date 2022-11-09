@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>e89c42f52f8711101eed24c62799b6b7</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app/>
+        <path>recettefavorite</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 15:46:08</sys_created_on>
+        <sys_id>ac9c82f92f8711101eed24c62799b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recettefavorite</sys_name>
+        <sys_package display_value="RecetteFavorite" source="x_831403_recette_0">dfe542352f8711101eed24c62799b6f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RecetteFavorite">dfe542352f8711101eed24c62799b6f1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_ac9c82f92f8711101eed24c62799b60d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 15:46:08</sys_updated_on>
+        <title>Recettefavorite</title>
+    </sys_ux_page_registry>
+</record_update>
